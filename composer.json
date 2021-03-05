@@ -1,0 +1,15 @@
+{
+    "name": "blogdaren/PHP7HashTable",
+    "type": "library",
+    "keywords": ["php7", "hashtable"],
+    "homepage": "http://www.phpcreeper.com",
+    "description": "A equivalent official implementation For PHP7 HashTable",
+    "license": "MIT", 
+    "require": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+    },  
+    "minimum-stability": "dev"
+}
