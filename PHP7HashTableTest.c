@@ -30,7 +30,7 @@ int main()
 
     k = "site";
     bv.type  = IS_STRING;
-    bv.v.str = "http://www.phpcreeer.com";
+    bv.v.str = "http://www.phpcreeper.com";
     pbv = setHashTableData(ht, k, &bv);
 
     showHashTableData(ht);
